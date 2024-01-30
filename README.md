@@ -1,15 +1,14 @@
 ![MasterHead](./grid-snake.svg)
 
-<a target="_blank" align="center">
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif">
-</a>
+<p align="center"> 
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ErdwinNandayapa&label=Profile%20views&color=0e75b6&style=flat" alt="ErdwinNandayapa" /> </p>
 
-## <picture><img src = "https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/about_me.gif" width = "50" /></picture> **About me**
 
 <br>
 🔭 I’m currently working on: **My side projects**
