@@ -1,8 +1,8 @@
 ![MasterHead](./grid-snake.svg)
 
-<p align="center">
-<img align="center" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif">
-</p>
+<a target="_blank" align="center">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif">
+</a>
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
