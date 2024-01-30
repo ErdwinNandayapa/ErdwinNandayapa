@@ -20,7 +20,8 @@
 
 - 📫 How to reach me: **Drop me an email at nandayapaerdwin956@gmail.com**
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me: img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br></h3>
 <p align="left">
 <a href="https://twitter.com/nandayapaerdwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/erdwin-nandayapa-307251103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
