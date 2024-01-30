@@ -1,5 +1,3 @@
-<!-- ![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg) -->
-
 ![MasterHead](./grid-snake.svg)
 
 <a target="_blank" align="center">
@@ -8,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ErdwinNandayapa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErdwinNandayapa&label=Profile%20views&color=0e75b6&style=flat" alt="ErdwinNandayapa" /> </p>
 
 🔭 I’m currently working on: **My side projects**
 
