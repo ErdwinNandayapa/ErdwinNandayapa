@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErdwinNandayapa&label=Profile%20views&color=0e75b6&style=flat" alt="ErdwinNandayapa" /> </p>
 
-## <picture><img src = "../image/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 🔭 I’m currently working on: **My side projects**
