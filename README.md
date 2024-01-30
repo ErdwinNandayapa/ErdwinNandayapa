@@ -37,7 +37,7 @@
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    <h3 align="left"> <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80"/> Connect with me:
+  <h3 align="left"> <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80"/> Connect with me:
   <br></h3>
   <p align="left">
   <a href="https://twitter.com/nandayapaerdwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
