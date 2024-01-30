@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/erdwin-nandayapa-307251103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
   <a href="https://www.instagram.com/3rdwin12/?igsh=MXBpbTYxb3pscTg0Nw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
   <a href="mailto:nandayapaerdwin956@gmail.com" target="_blank">
-  <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" t=mail align="center" />
+  <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" t=mail align="center" height="30" width="40"  />
   </a>
 
 </p>
