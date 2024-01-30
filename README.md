@@ -1,6 +1,6 @@
 ![MasterHead](./grid-snake.svg)
 
-<p align="center"> <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="ErdwinNandayapa" /> </p>
+<p align="center"> <img  height="200" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="ErdwinNandayapa" /> </p>
 
  <!-- <p align="center"> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif"> -->
 
