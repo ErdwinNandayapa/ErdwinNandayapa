@@ -1,7 +1,7 @@
 ![MasterHead](./grid-snake.svg)
 
 <p align="center"> 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif"></p>
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" /></p>
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
@@ -19,7 +19,7 @@
 
   <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/><b> Skills</b>
 
 - **Front-End Development**:
 
@@ -38,7 +38,7 @@
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    <h3 align="left">Connect with me: <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80">
+    <h3 align="left">Connect with me: <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80"/>
   <br></h3>
   <p align="left">
   <a href="https://twitter.com/nandayapaerdwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
