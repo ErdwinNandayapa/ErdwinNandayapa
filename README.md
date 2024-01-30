@@ -27,13 +27,9 @@
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
 - **Cloud Hosting**:
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
 
 - **Softwares and Tools**:
 
@@ -42,16 +38,14 @@
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
-  <h3 align="left">Connect with me: <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80">
-<br></h3>
-<p align="left">
-<a href="https://twitter.com/nandayapaerdwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/erdwin-nandayapa-307251103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/3rdwin12/?igsh=MXBpbTYxb3pscTg0Nw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
-<a href="mailto:nandayapaerdwin956@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%20%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail align="center" />
-</a>
+    <h3 align="left">Connect with me: <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80">
+  <br></h3>
+  <p align="left">
+  <a href="https://twitter.com/nandayapaerdwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/erdwin-nandayapa-307251103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/3rdwin12/?igsh=MXBpbTYxb3pscTg0Nw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ErdwinNandayapa" height="30" width="40" /></a>
+  <a href="mailto:nandayapaerdwin956@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail:%20%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail align="center" />
+  </a>
 
 </p>
