@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on: **Interesting open source projects**
 
-- 💬 Ask me about: **I ALSO DEVELOP Visual basic .NET, SQL SERVER, MYSQL and **
+- 💬 Ask me about: **I ALSO DEVELOP Visual basic .NET, SQL SERVER, MYSQL**
 
   <br>
 
