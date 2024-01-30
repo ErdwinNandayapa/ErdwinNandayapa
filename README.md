@@ -18,8 +18,6 @@
 
 - 💬 Ask me about: **JavaScript, CSS3, HTML5, Visual basic .NET**
 
-- 📫 How to reach me: **Drop me an email at nandayapaerdwin956@gmail.com**
-
   <h3 align="left">Connect with me: <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80">
 <br></h3>
 <p align="left">
