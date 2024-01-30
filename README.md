@@ -1,8 +1,6 @@
 ![MasterHead](./grid-snake.svg)
 
-<p align="center"> <img  height="300" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="ErdwinNandayapa" /> </p>
-
- <!-- <p align="center"> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif"> -->
+<p align="center"> <img  height="300" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="GIF" /> </p>
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
