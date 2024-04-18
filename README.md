@@ -1,5 +1,6 @@
+![MasterHead](./grid-snake.svg)
 
-<p align="center"> <img  height="300" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="GIF" /> </p>
+
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
@@ -31,6 +32,7 @@
 
 - **Softwares and Tools**:
 
+
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
@@ -48,5 +50,6 @@
   <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/react-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
     <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/nodejs-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
       <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
+      
 </p>
-![MasterHead](./grid-snake.svg)
+<p align="center"> <img  height="300" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="GIF" /> </p>
