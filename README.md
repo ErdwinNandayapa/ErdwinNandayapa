@@ -34,6 +34,10 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/react-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
+    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/nodejs-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
+      <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
+     <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/postman.svg"  t=mail align="center" height="30" width="40"  />
 
   <h3 align="left"> <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80"/> Connect with me:
   <br></h3>
@@ -44,13 +48,7 @@
   <a href="mailto:nandayapaerdwin956@gmail.com" target="_blank">
   <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" t=mail align="center" height="30" width="40"  />
   </a>
-  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/react-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
-    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/nodejs-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
-      <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
-     <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/postman.svg"  t=mail align="center" height="30" width="40"  />
-      
-      
-</p>
+ </p>
 
 ![MasterHead](./grid-snake.svg)
 <p align="center"> <img  height="300" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="GIF" /> </p>
