@@ -1,6 +1,3 @@
-![MasterHead](./grid-snake.svg)
-
-
 
 <h1 align="center">Hi 👋, I'm Erdwin Nandayapa</h1>
 <h3 align="center">A passionate Software Developer</h3>
@@ -52,4 +49,6 @@
       <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
       
 </p>
+
+![MasterHead](./grid-snake.svg)
 <p align="center"> <img  height="300" width="300" src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/Right_Side.gif" alt="GIF" /> </p>
