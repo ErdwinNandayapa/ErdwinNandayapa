@@ -38,7 +38,7 @@
      <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/git_hub.png"  t=mail align="center" height="30" width="40"  />
    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/git.png"  t=mail align="center" height="30" width="40"  />
    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/react-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
-    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/node.js"  t=mail align="center" height="30" width="40"  />
+    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/nodejs.png"  t=mail align="center" height="30" width="40"  />
       <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
      <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/postman.svg"  t=mail align="center" height="30" width="40"  />
      </p>
