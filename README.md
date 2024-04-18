@@ -34,14 +34,21 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
-   <p align="left">
-     <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/github-logo1.png"  t=mail align="center" height="30" width="40"  />
-   <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/git.png"  t=mail align="center" height="30" width="40"  />
-   <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/react-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
-    <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/nodejs.png"  t=mail align="center" height="30" width="40"  />
-      <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg"  t=mail align="center" height="30" width="40"  />
-     <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/postman.svg"  t=mail align="center" height="30" width="40"  />
-     </p>
+<p align="left">
+
+  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/github-logo1.png" align="center" height="30" width="40" style="margin-right: 10px;" />
+
+  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/git.png" align="center" height="30" width="40" style="margin-right: 10px;" />
+
+  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/react-original-wordmark.svg" align="center" height="30" width="40" style="margin-right: 10px;" />
+
+  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/nodejs.png" align="center" height="30" width="40" style="margin-right: 10px;" />
+
+  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/mongodb-original-wordmark.svg" align="center" height="30" width="40" style="margin-right: 10px;" />
+
+  <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/postman.svg" align="center" height="30" width="40" />
+
+</p>
 
   <h3 align="left"> <img src="https://github.com/ErdwinNandayapa/ErdwinNandayapa/blob/main/image/handshake.gif" width ="80"/> Connect with me:
   <br></h3>
